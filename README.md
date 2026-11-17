@@ -1,6 +1,6 @@
-# Surf Report Input
+# Surf Statistics
 
-Surf Report Input is a personal data management project built to track surf rides, fuel usage, surf companions, and ride statistics.
+Surf Statistics is a personal data management project built to track surf rides, fuel usage, surf companions, and ride statistics.
 The project is designed as a practical learning platform for database management, SQL, data analysis and software development. The application combines a custom PyQt6 user interface, SQLite database storage and analytics powered by Pandas and data visualization libraries.
 
 The user interface is designed using Qt Designer and customized through QSS (Qt Style Sheets) to create a modern and consistent user experience.
